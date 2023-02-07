@@ -7,38 +7,35 @@ Uan Pink - 2023
 
 """
 
-
 import argparse
 import random
 
 
 def read_file(filename: str) -> [str]:
-	all_data: str = [];
+  all_data: str = [];
 
-	with open(filename, "r") as file:
-		all_data = file.readlines()
+  with open(filename, "r") as file:
+    all_data = file.readlines()
 
-	return all_data
+  return all_data
 
 
 def spit_items(data: [str], numberOfItems: int) -> [str]:
+  spitted: str = []
 
-	spitted: str = []
-	
-	for x in range(numberOfItems):
-		rand: int = random.randint(0, len(data)-1)
+  for x in range(numberOfItems):
+    rand: int = random.randint(0, len(data)-1)
 
-		spitted.append(data[rand].rstrip())
+    spitted.append(data[rand].rstrip())
 
-
-	return spitted
+  return spitted
 
 
 def show(items: [str]):
-	print("+!+!+!+!+ TO SPARK YOUR CREATIVITY +!+!+!+!+")
+  print("+!+!+!+!+ TO SPARK YOUR CREATIVITY +!+!+!+!+")
 
-	for item in items:
-		print(item)
+  for item in items:
+    print(item)
 
 
 parser = argparse.ArgumentParser()

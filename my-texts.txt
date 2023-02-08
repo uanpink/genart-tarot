@@ -1,29 +1,33 @@
-box()
-square()
+box
+square
 fear
 peace
 colorful
 rainbow
 war
-rect()
+rectangles
 computer
 blue
 pink
 purple
 yellow
-dark
 terror
 music
 weird
 happiness
 p5js
-svg
 on-chain
-copy-pasta different
+do it in one week
+break a rule or conception that people have and you think doesn't make sense
 concept
 family
 sun
+heaven
+use unthinkable materials
+do something highly controversial
 moon
+multimedia
+try a different medium than you are used to
 cosmos
 earth
 angry
@@ -45,7 +49,6 @@ eyes
 soul
 existence
 nourishment
-most
 among
 architecture
 painting
@@ -54,9 +57,12 @@ lifetime
 infinite
 nobody
 form
+use a dark color palette
 moving
 admirable
 media
+take something niche and bring it into the mainstream
+think about what your favorite artist would do and then do something even better
 problem
 animals
 paragon
@@ -66,3 +72,9 @@ spiritual
 between
 quintessence
 angel
+VR
+AR
+sculpture
+gold
+medieval
+try to think what Warhol would do
